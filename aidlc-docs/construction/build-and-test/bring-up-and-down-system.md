@@ -33,3 +33,23 @@ npm run dev
 | 健康检查 | http://localhost:8000/api/health/ |
 
 管理后台账号：admin@cgtv.com / Welcome1#
+
+## 关闭系统
+
+### 1. 停止前端和后端
+
+在各自终端中按 `Ctrl+C`。
+
+### 2. 停止基础设施
+
+```bash
+cd ich_museum
+docker-compose down          # 停止容器（保留数据）
+docker-compose down -v       # 停止容器并删除所有数据卷（PostgreSQL/Redis/ES 数据将丢失）
+```
+
+### 3. 停止 Colima（可选）
+
+```bash
+colima stop
+```
