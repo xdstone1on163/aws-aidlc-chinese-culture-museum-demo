@@ -1,0 +1,12 @@
+[
+  {"model": "heritage.category", "pk": 1, "fields": {"name": "民间文学", "name_en": "Folk Literature", "code": "folk_literature", "sort_order": 1}},
+  {"model": "heritage.category", "pk": 2, "fields": {"name": "传统音乐", "name_en": "Traditional Music", "code": "traditional_music", "sort_order": 2}},
+  {"model": "heritage.category", "pk": 3, "fields": {"name": "传统舞蹈", "name_en": "Traditional Dance", "code": "traditional_dance", "sort_order": 3}},
+  {"model": "heritage.category", "pk": 4, "fields": {"name": "传统戏剧", "name_en": "Traditional Opera", "code": "traditional_opera", "sort_order": 4}},
+  {"model": "heritage.category", "pk": 5, "fields": {"name": "曲艺", "name_en": "Quyi (Storytelling)", "code": "quyi", "sort_order": 5}},
+  {"model": "heritage.category", "pk": 6, "fields": {"name": "传统体育、游艺与杂技", "name_en": "Traditional Sports & Acrobatics", "code": "sports_acrobatics", "sort_order": 6}},
+  {"model": "heritage.category", "pk": 7, "fields": {"name": "传统美术", "name_en": "Traditional Fine Arts", "code": "fine_arts", "sort_order": 7}},
+  {"model": "heritage.category", "pk": 8, "fields": {"name": "传统技艺", "name_en": "Traditional Craftsmanship", "code": "craftsmanship", "sort_order": 8}},
+  {"model": "heritage.category", "pk": 9, "fields": {"name": "传统医药", "name_en": "Traditional Medicine", "code": "traditional_medicine", "sort_order": 9}},
+  {"model": "heritage.category", "pk": 10, "fields": {"name": "民俗", "name_en": "Folk Customs", "code": "folk_customs", "sort_order": 10}}
+]

@@ -1,0 +1,54 @@
+{
+  "common": {
+    "siteName": "ICH Museum",
+    "home": "Home",
+    "search": "Search",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "favorites": "Favorites",
+    "loading": "Loading...",
+    "noResults": "No results",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back"
+  },
+  "heritage": {
+    "title": "Heritage Items",
+    "allCategories": "All Categories",
+    "detail": "Item Detail",
+    "history": "History",
+    "inheritors": "Inheritors",
+    "relatedItems": "Related Items",
+    "favorite": "Favorite",
+    "unfavorite": "Unfavorite"
+  },
+  "review": {
+    "title": "Reviews",
+    "writeReview": "Write a Review",
+    "rating": "Rating",
+    "reply": "Reply",
+    "noReviews": "No reviews yet",
+    "submitReview": "Submit Review"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "nickname": "Nickname",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password",
+    "resetPassword": "Reset Password",
+    "verifyEmail": "Verify Email",
+    "loginRequired": "Please login first"
+  },
+  "search": {
+    "placeholder": "Search heritage items...",
+    "results": "Search Results",
+    "totalResults": "{count} results found"
+  }
+}

@@ -1,0 +1,6 @@
+-r dev.txt
+pytest==8.*
+pytest-django==4.8.*
+pytest-cov==5.*
+factory-boy==3.3.*
+faker==28.*

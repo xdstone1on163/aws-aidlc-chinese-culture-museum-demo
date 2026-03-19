@@ -1,0 +1,54 @@
+{
+  "common": {
+    "siteName": "非遗博物馆",
+    "home": "首页",
+    "search": "搜索",
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出",
+    "profile": "个人中心",
+    "favorites": "我的收藏",
+    "loading": "加载中...",
+    "noResults": "暂无结果",
+    "submit": "提交",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "back": "返回"
+  },
+  "heritage": {
+    "title": "非遗项目",
+    "allCategories": "全部分类",
+    "detail": "项目详情",
+    "history": "历史背景",
+    "inheritors": "传承人",
+    "relatedItems": "相关推荐",
+    "favorite": "收藏",
+    "unfavorite": "取消收藏"
+  },
+  "review": {
+    "title": "用户评价",
+    "writeReview": "写评价",
+    "rating": "评分",
+    "reply": "回复",
+    "noReviews": "暂无评价",
+    "submitReview": "提交评价"
+  },
+  "auth": {
+    "email": "邮箱",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "nickname": "昵称",
+    "rememberMe": "记住我",
+    "forgotPassword": "忘记密码",
+    "resetPassword": "重置密码",
+    "verifyEmail": "验证邮箱",
+    "loginRequired": "请先登录"
+  },
+  "search": {
+    "placeholder": "搜索非遗项目...",
+    "results": "搜索结果",
+    "totalResults": "共 {count} 个结果"
+  }
+}
